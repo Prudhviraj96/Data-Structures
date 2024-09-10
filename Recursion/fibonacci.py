@@ -1,3 +1,4 @@
+#fibonacci of a number using loop statements
 def fib(num):
     if num < 2:
         return num
@@ -10,7 +11,7 @@ def fib(num):
         b = total
     return total
 
-
+#Using recursion method
 def fibonacci(num):
     if num < 2:
         return num
