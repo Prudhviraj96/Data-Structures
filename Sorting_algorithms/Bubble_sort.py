@@ -1,6 +1,11 @@
 '''Bubble sort is a simple sorting algorithm used in Python to arrange data in a specific order, either ascending or descending.
 It works by repeatedly iterating through a list, comparing and swapping adjacent elements if they are in the wrong order.'''
 
+# Time Complexity: O(N2)
+# Auxiliary Space: O(1)
+
+
+
 def bubblesort(arr):
   qw = 0
   while qw < len(arr):
