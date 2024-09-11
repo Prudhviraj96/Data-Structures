@@ -1,6 +1,6 @@
 '''Merge Sort in Python is a popular and efficient sorting algorithm that works on the concept of divide and conquer.
 This technique involves dividing a problem into multiple sub-problems. 
-Each sub-problem is then solved individually. Finally, sub-problems are combined to form the final solution.'''\
+Each sub-problem is then solved individually. Finally, sub-problems are combined to form the final solution.'''
 
 # Time Complexity: O(n*log(n))
 # Auxiliary Space: O(n)
