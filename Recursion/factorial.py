@@ -1,4 +1,6 @@
 #it function calling it self 
+'''This Python program uses a recursive function to calculate the factorial of a given number. The factorial is computed by multiplying the number with the factorial of its preceding number'''
+
 def factorial(num):
   if num == 1:
     return 1
